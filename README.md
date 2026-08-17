@@ -1,20 +1,19 @@
 # Hi, I'm Dexteen 👋
 
-### Automation & Software Developer
+### Student Developer | Automation & Computing
 
-I build practical automation systems that reduce repetitive business processes using **n8n, APIs, JavaScript and AI**.
-
-I'm interested in building real-world automation solutions that help businesses save time, reduce manual work and improve their workflows.
+I'm a student interested in computing, software development, AI and automation.
+My interest in programming started with Scratch, and I have since explored web development, JavaScript, computer networks, web security and automation. I enjoy building practical projects, experimenting with new technologies and learning how different systems can work together to solve real-world problems.
 
 ## 🚀 Featured Project
 
 ### 🧾 Automated Invoice Creation System
 
-An end-to-end invoice automation system built with n8n.
+I built an end-to-end invoice automation system using n8n that automates several steps of the invoicing process.
 
-The workflow automatically:
+The workflow:
 
-- Retrieves invoice-ready data from Google Sheets
+- Retrieves invoice data from Google Sheets
 - Validates customer and invoice information
 - Calculates invoice totals and discounts
 - Generates invoice documents
@@ -34,24 +33,30 @@ The workflow automatically:
 - n8n Workflow Automation
 - JavaScript
 - REST APIs
-- AI Automation
+- AI & Automation
 - Google Sheets Automation
 - Google Drive & Gmail Integration
-- Webhooks
+- Web Development
 - Business Process Automation
+- Computer Networks
 
-## 🌱 Currently Building
+## 🌱 What I'm Learning
 
-I'm continuing to develop practical automation projects involving:
+I'm continuing to develop my computing skills by exploring:
 
 - AI-powered business workflows
-- Invoice and payment automation
-- WhatsApp and email notifications
+- APIs and system integrations
+- Web development
 - Data collection and processing
+- Automation of real-world tasks
 
-## 🎯 What I'm Working Towards
+## 🎯 My Goal
 
-My goal is to build automation systems that solve real business problems and demonstrate how AI and workflow automation can improve everyday business operations.
+I hope to continue improving my programming and problem-solving skills, take on more challenging computing projects and learn how software, AI and automation can be used to create useful solutions.
+
+## 📚 Acknowledgements
+
+My projects are my own work. Where I use third-party libraries, APIs, tutorials, documentation and AI tools such as ChatGPT for learning, debugging or development assistance, these are acknowledged in the relevant project's README.
 
 ---
 
