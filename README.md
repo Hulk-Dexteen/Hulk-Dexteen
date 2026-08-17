@@ -45,7 +45,6 @@ The workflow automatically:
 I'm continuing to develop practical automation projects involving:
 
 - AI-powered business workflows
-- Lead generation and outreach automation
 - Invoice and payment automation
 - WhatsApp and email notifications
 - Data collection and processing
